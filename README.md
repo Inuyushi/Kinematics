@@ -8,7 +8,7 @@ to things when put to sleep to regain TP.
 
 The "Main Job Files" lua should be in the following location: Windower4\addons\GearSwap\data
 
-The "Side Car Files" lua should be in the following location: Windower4\addons\GearSwap\data\<player name>
+The "Side Car Files" lua should be in the following location: Windower4\addons\GearSwap\data\\<player name>
 
 Which for me is: Windower4\addons\GearSwap\data\Inuyushi
 
